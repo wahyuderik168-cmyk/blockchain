@@ -1,5 +1,5 @@
 import streamlit as st
-from core import Blockchain  # Mengimpor logika blockchain dari core.py
+from prtemuan4.coree import Blockchain  # Mengimpor logika blockchain dari core.py
 
 # 1. Konfigurasi Halaman & Branding
 st.set_page_config(
